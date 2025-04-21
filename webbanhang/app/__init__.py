@@ -1,0 +1,1 @@
+# Tập tin này thường được để trống hoặc chứa một số mã Python cơ bản
